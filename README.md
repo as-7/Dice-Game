@@ -1,4 +1,4 @@
-Welcome to the 2-player Dice Game!
+Welcome to the 2-player Dice Game! (Play here - https://as-7.github.io/Dice-Game/)
 
 First Player to get score of 100 wins!
 
